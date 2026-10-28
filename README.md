@@ -24,13 +24,10 @@ The project converts textual reviews into numerical features using TF-IDF vector
 - K-Nearest Neighbors (KNN)
 - Jupyter Notebook
 
-## 📂 Project Structure
+## 📂 Resource
 
 ```text
-IMDb-Movie-Review-Sentiment-Analysis/
-├── IMDB_Dataset.csv
-├── Review_Sentiment_Analysis.ipynb
-└── README.md
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 ```
 
 ## ⚙️ Project Workflow
